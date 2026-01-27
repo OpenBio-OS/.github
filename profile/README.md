@@ -1,3 +1,3 @@
 # OpenBio-OS (OBOS)
 
-![Banner](banner.png)
+![Banner](https://raw.githubusercontent.com/OpenBio-OS/.github/refs/heads/main/profile/banner.png)
