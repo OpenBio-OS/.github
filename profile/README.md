@@ -2,7 +2,7 @@
 
 ![Banner](https://raw.githubusercontent.com/OpenBio-OS/.github/refs/heads/main/profile/banner.png)
 
-OpenBio is an organisation creating Enterprise Resource & Laboratory (ERL) systems designed to help research teams.
+OpenBio-OS is a tooling system to create Enterprise Resource & Laboratory (ERL) systems designed to help research teams.
 
 ### Key features
 
