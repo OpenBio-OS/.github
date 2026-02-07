@@ -20,7 +20,7 @@ OpenBio is an organisation creating Enterprise Resource & Laboratory (ERL) syste
 - Optional desktop builds via Tauri and WASM components
 - See relevant repos: openbio-core, openbio-server, web, src-tauri, and schema.prisma.
 
-##Getting started
+## Getting started
 
 - Browse the repositories in this organization to find the component you need.
 - See each repo README for build, run, and development instructions.
