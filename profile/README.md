@@ -37,6 +37,6 @@ OpenBio is an organisation creating Enterprise Resource & Laboratory (ERL) syste
 - Report security issues via repository issue trackers.
 - Check each repository for its LICENSE file for licensing details.
 
-![OpenBio](https://raw.githubusercontent.com/OpenBio-OS/.github/refs/heads/main/profile/black-logo.jpg)
+![OpenBio](https://raw.githubusercontent.com/OpenBio-OS/.github/refs/heads/main/profile/black-logo.png)
 
 **Questions or feedback? Open an issue in the appropriate repository or start a discussion.**
